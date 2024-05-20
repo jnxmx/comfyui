@@ -22,8 +22,8 @@ NODES=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors"
-    "https://civitai.com/api/download/models/460785?token=f046e8dd997fcb4163f40299bb3c3dc7"
+    #"https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors"
+    #"https://civitai.com/api/download/models/460785?token=f046e8dd997fcb4163f40299bb3c3dc7"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
 )
