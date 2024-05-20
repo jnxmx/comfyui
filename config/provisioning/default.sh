@@ -16,6 +16,9 @@ NODES=(
     "https://github.com/melMass/comfy_mtb"
     "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
     "https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved"
+    "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
+    "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation"
+    "https://github.com/Acly/comfyui-inpaint-nodes"
 )
 
 CHECKPOINT_MODELS=(
