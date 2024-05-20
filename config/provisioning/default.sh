@@ -12,6 +12,10 @@ PYTHON_PACKAGES=(
 
 NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
+    "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
+    "https://github.com/melMass/comfy_mtb"
+    "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
+    "https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved"
 )
 
 CHECKPOINT_MODELS=(
