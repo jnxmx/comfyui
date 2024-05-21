@@ -12,13 +12,13 @@ PYTHON_PACKAGES=(
 
 NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
-    #"https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
-    #"https://github.com/melMass/comfy_mtb"
-    #"https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
-    #"https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved"
-    #"https://github.com/cubiq/ComfyUI_IPAdapter_plus"
-    #"https://github.com/Fannovel16/ComfyUI-Frame-Interpolation"
-    #"https://github.com/Acly/comfyui-inpaint-nodes"
+    "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
+    "https://github.com/melMass/comfy_mtb"
+    "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
+    "https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved"
+    "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
+    "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation"
+    "https://github.com/Acly/comfyui-inpaint-nodes"
 )
 
 CHECKPOINT_MODELS=(
@@ -26,6 +26,10 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/460785?token=f046e8dd997fcb4163f40299bb3c3dc7"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
+)
+
+ANIMATEDIFF_MODELS=(
+    
 )
 
 LORA_MODELS=(
